@@ -3,7 +3,7 @@
 ## Project Overview
 An interactive Power BI dashboard designed to analyze key sales metrics, regional distribution, and operational performance for an e-commerce platform. This report provides actionable insights into revenue drivers and evaluates the correlation between delivery timelines and customer satisfaction.
 
-![Dashboard Preview](dashboard_preview.png)
+!E-commerce dashboard.png
 
 ---
 
